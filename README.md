@@ -9,4 +9,4 @@
 Install dependencies with pip install.
     
    ## Sample Example
-![snake_game](https://user-images.githubusercontent.com/19821445/132264323-edc84d11-6f43-4633-945d-e53e52ca6a72.gif)
+![snake_game](https://user-images.githubusercontent.com/19821445/132264629-3cd4803c-f61b-41c3-a40b-544c7af9a968.gif)
