@@ -1,3 +1,4 @@
+# Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 import math
 import random
 import pygame
@@ -6,7 +7,7 @@ from tkinter import messagebox
 
 
 pygame.init()
-pygame.display.set_caption('Snake by @sajustsmile')
+pygame.display.set_caption('Snake by @sandramsc')
 
 class cube(object):
     rows =25
