@@ -1,1 +1,2 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 arrow keys: UP, DOWN, LEFT, RIGHT
